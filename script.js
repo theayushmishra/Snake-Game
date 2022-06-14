@@ -1,5 +1,5 @@
 //Snakes Game
-// Game loop -- Init, Draw, Update
+// Game loop -- Init, Draw, Update, getRandomFood
 
 function init() {
     console.log("init");
